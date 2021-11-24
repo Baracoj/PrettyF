@@ -1,7 +1,7 @@
-# Font屌 中文图标字体
-用于 Web 和 iOS 应用的中文图标字体，同时提供了国内各种常用网站、应用、知名企业的徽标 SVG 源文件。
+PrettyF
+Una colección de elegantes iconos en alta calidad para diseño web.
 
-__图标列表传送门__ [http://lexrus.github.io/fontdiao/](http://lexrus.github.io/fontdiao/)
+Más información en: [http://lexrus.github.io/fontdiao/](http://lexrus.github.io/fontdiao/)
 
 ![](https://raw.github.com/lexrus/fontdiao/master/assets/fontdiao_iphone.jpg)
 
